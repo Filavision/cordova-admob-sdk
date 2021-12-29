@@ -18,7 +18,7 @@
       "ios"
     ]
   },
-  "repository": "https://gitlab.com/ratson/cordova-admob-sdk",
+  "repository": "https://github.com/Filavision/cordova-admob-sdk",
   "keywords": [
     "cordova",
     "ecosystem:cordova",
